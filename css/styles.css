@@ -1,0 +1,133 @@
+.fluid-container {
+    padding: 3%;
+    width: 91%;
+    margin: auto;
+}
+
+body {
+    font-family:"sans-serif";
+}
+
+#title {
+    background-color: pink;
+}
+
+.Button {
+    margin: 3%;
+}
+
+.Dog-image {
+    width: 45%;
+    margin-left: 10%;
+    transform: rotate(25deg);
+}
+
+.main-h1 {
+    color: white;
+    font-size: 4.5rem;
+}
+
+.feature-box {
+    text-align: center;
+}
+
+.btn-secondary {
+    margin: 3%;
+}
+
+.fa-solid {
+    color: pink;
+}
+
+.fa-solid:hover {
+    color:palevioletred;
+}
+
+.button-row {
+    margin-top: 3%;
+}
+
+.navbar-brand {
+    padding-left: 2%;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: pink;
+}
+
+.testimonial-text {
+    font-size: 3.5rem;
+    color: white;
+}
+
+#press {
+    padding:2% 10%;
+    text-align: center;
+    background-color: pink;
+}
+
+.testimonial-image {
+    width: 15%;
+    margin-top: 3%;
+    border-radius: 100%;
+}
+
+.press-image {
+    width: 15%;
+}
+
+.carousel-item {
+    padding: 4% 15%;
+}
+
+.card {
+    margin: 3%;
+    text-align: center;
+    border-width: 10px;
+}
+
+.card-heading {
+    text-align: center;
+    margin-top: 4%;
+    font-size: 1.5rem;
+}
+
+.card-deck {
+    margin: 4%;
+}
+
+.h {
+    font-size: 2.8rem;
+}
+
+#pricing {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.footer-btn {
+    color: dimgray;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: pink;
+}
+
+.footer-btn:hover {
+    color: #000000;
+}
+
+.copy {
+    text-align: center;
+}
+
+.f-logos {
+    text-align: center;
+}
+
+.div-footer {
+    padding-bottom: 5px;
+    padding-top: 15px;
+    background-color: pink;
+}
