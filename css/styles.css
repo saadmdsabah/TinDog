@@ -152,6 +152,6 @@ body {
 @media (max-width: 650px){
     .testimonial-text{
         font-size: 2rem;
-        text-align: center;
+        text-align: left;
     }
 }
