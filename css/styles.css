@@ -22,7 +22,6 @@ body {
 
 .main-h1 {
     color: white;
-    text-align: center;
     font-size: 4.5rem;
 }
 
@@ -144,14 +143,13 @@ body {
         transform: rotate(0);
     }
     .main-h1 {
-        font-size: 3rem;
-        text-align: center;
+        font-size: 3.5rem;
     }
 }
 
 @media (max-width: 650px){
     .testimonial-text{
         font-size: 2rem;
-        text-align: left;
+        text-align: center;
     }
 }
